@@ -1,0 +1,19 @@
+This is a result of serialization performance test:
+DataContractJsonSerializer: 10 ms
+System.Text.Json: 4 ms
+➜  SerializationDemo dotnet run
+This is a result of serialization performance test:
+DataContractJsonSerializer: 15 ms
+System.Text.Json: 10 ms
+➜  SerializationDemo dotnet run
+This is a result of serialization performance test:
+DataContractJsonSerializer: 12 ms
+System.Text.Json: 4 ms
+➜  SerializationDemo dotnet run
+This is a result of serialization performance test:
+DataContractJsonSerializer: 12 ms
+System.Text.Json: 4 ms
+➜  SerializationDemo dotnet run
+This is a result of serialization performance test:
+DataContractJsonSerializer: 11 ms
+System.Text.Json: 4 ms
